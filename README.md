@@ -1,7 +1,7 @@
 # Accounting Fun
 
 <p align="center">
-<img src="images/accounting_fun" width="400" height="400" />
+<img src="images/accounting.png" width="400" height="400" />
 </p>
 
 ## Overview
